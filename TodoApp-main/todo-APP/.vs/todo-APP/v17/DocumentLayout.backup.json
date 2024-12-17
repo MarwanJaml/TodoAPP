@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\todoAPP\\todo-APP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA77E38B-4447-4B73-9452-7E8A324BA398}|todo-APP\\todo-APP.csproj|c:\\todoapp\\todo-app\\todo-app\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA77E38B-4447-4B73-9452-7E8A324BA398}|todo-APP\\todo-APP.csproj|solutionrelative:todo-app\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA77E38B-4447-4B73-9452-7E8A324BA398}|todo-APP\\todo-APP.csproj|c:\\todoapp\\todo-app\\todo-app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DA77E38B-4447-4B73-9452-7E8A324BA398}|todo-APP\\todo-APP.csproj|solutionrelative:todo-app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA77E38B-4447-4B73-9452-7E8A324BA398}|todo-APP\\todo-APP.csproj|c:\\todoapp\\todo-app\\todo-app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA77E38B-4447-4B73-9452-7E8A324BA398}|todo-APP\\todo-APP.csproj|solutionrelative:todo-app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA77E38B-4447-4B73-9452-7E8A324BA398}|todo-APP\\todo-APP.csproj|c:\\todoapp\\todo-app\\todo-app\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DA77E38B-4447-4B73-9452-7E8A324BA398}|todo-APP\\todo-APP.csproj|solutionrelative:todo-app\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 190,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\todoAPP\\todo-APP\\todo-APP\\appsettings.json",
+              "RelativeDocumentMoniker": "todo-APP\\appsettings.json",
+              "ToolTip": "C:\\todoAPP\\todo-APP\\todo-APP\\appsettings.json",
+              "RelativeToolTip": "todo-APP\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-17T12:18:28.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TodoController.cs",
+              "DocumentMoniker": "C:\\todoAPP\\todo-APP\\todo-APP\\Controllers\\TodoController.cs",
+              "RelativeDocumentMoniker": "todo-APP\\Controllers\\TodoController.cs",
+              "ToolTip": "C:\\todoAPP\\todo-APP\\todo-APP\\Controllers\\TodoController.cs",
+              "RelativeToolTip": "todo-APP\\Controllers\\TodoController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAmwDUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T12:18:00.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\todoAPP\\todo-APP\\todo-APP\\Program.cs",
+              "RelativeDocumentMoniker": "todo-APP\\Program.cs",
+              "ToolTip": "C:\\todoAPP\\todo-APP\\todo-APP\\Program.cs",
+              "RelativeToolTip": "todo-APP\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T12:13:11.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\todoAPP\\todo-APP\\todo-APP\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "todo-APP\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\todoAPP\\todo-APP\\todo-APP\\Properties\\launchSettings.json",
+              "RelativeToolTip": "todo-APP\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-17T12:12:29.207Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
